@@ -1,8 +1,8 @@
-[Ch1 基础标签](基础标签\\Readme.md)
+[Ch1 基础标签](/基础标签/Readme.md)
 
-[Ch2 文本格式化](文本格式化\\Readme.md)
+[Ch2 文本格式化](/文本格式化/Readme.md)
 
-[Ch3 链接](链接\\Readme.md)
+[Ch3 链接](/链接/Readme.md)
 
 [框架]()
 [表格]()
